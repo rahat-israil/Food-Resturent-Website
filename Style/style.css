@@ -176,7 +176,7 @@
 
 #footer{
   margin-top: 100px;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.691), rgba(255, 255, 255, 0.705)), url(/assets/social-bg.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.691), rgba(255, 255, 255, 0.705)), url(../assets/social-bg.png);
   height: 509px;
   background-size: cover;             /* Adjust as needed */
   background-position: center;      /* Adjust as needed */
